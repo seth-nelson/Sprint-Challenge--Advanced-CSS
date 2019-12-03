@@ -206,11 +206,8 @@ footer {
 }
 .home .intro img {
   border-radius: 5px;
-}
-@media (max-width: 500px) {
-  .home .intro img {
-    width: 500px;
-  }
+  width: 95%;
+  margin-left: 15px;
 }
 .home .space-images {
   display: flex;
